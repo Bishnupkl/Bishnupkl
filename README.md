@@ -1,4 +1,4 @@
-### Hi there 👋
+<!-- ### Hi there  -->
 
 <!--
 **Bishnupkl/Bishnupkl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,19 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+Good Day there 👋.
+I offer more than 2 years of experience with Web development and a proven track record of meeting aggressive goals. My most notable skills include:
+
+✔️PHP
+✔️Laravel Framework
+✔️Mysql
+✔️Bootstrap
+✔️ Wordpress
+✔️ Javascript, Jquery,AJAX
+✔️Html5/CSS3
+✔️Linux
+✔️Vue
+
+I am comfortable communicating with technical and non-technical employees in order to complete projects and achieve organizational goals.
+
