@@ -15,8 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Good Day there 👋.
-I offer more than 2 years of experience with Web development and a proven track record of meeting aggressive goals. My most notable skills include:
+Good Day there 👋. <br />
+I offer more than 2 years of experience with Web development and a proven track record of meeting aggressive goals. My most notable skills include: <br />
 
 ✔️PHP
 ✔️Laravel Framework
@@ -27,6 +27,6 @@ I offer more than 2 years of experience with Web development and a proven track 
 ✔️Html5/CSS3
 ✔️Linux
 ✔️Vue
-
+ <br/>
 I am comfortable communicating with technical and non-technical employees in order to complete projects and achieve organizational goals.
 
