@@ -27,6 +27,7 @@ I offer more than 2 years of experience with Web development and a proven track 
 ✔️Html5/CSS3
 ✔️Linux
 ✔️Vue
- <br/>
+
+
 I am comfortable communicating with technical and non-technical employees in order to complete projects and achieve organizational goals.
 
