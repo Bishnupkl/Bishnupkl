@@ -1,8 +1,10 @@
 <!-- ### Hi there  -->
 
-**Bishnupkl/Bishnupkl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<!-- **Bishnupkl/Bishnupkl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
-Here are some ideas to get you started:
+<!-- Here are some ideas to get you started: -->
+Good Day there 👋. <br />
+I offer more than 2 years of experience with Web development and a proven track record of meeting aggressive goals. <br />
 
 - 🔭 I’m currently working on many Realtime Projects
 - 🌱 I’m currently learning React and Vue
@@ -13,8 +15,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ... -->
 
-Good Day there 👋. <br />
-I offer more than 2 years of experience with Web development and a proven track record of meeting aggressive goals. My most notable skills include: <br />
+ My most notable skills include: <br />
 
 ✔️PHP
 ✔️Laravel Framework
