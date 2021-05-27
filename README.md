@@ -33,12 +33,14 @@ I am comfortable communicating with technical and non-technical employees in ord
 
 
 ### Connect with me:
-
-[<img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />]
-[<img align="left" alt="codeSTACKr | Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />]
-[<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />]
-[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />]
-[<img align="left" alt="codeSTACKr | Upwork" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/Upwork.svg" />]
+<div class="col-xl-3 col-lg-3 col-md-3 col-sm-12">
+                        <ul class="location_icon">
+                            <li> <a href="https://www.facebook.com/20nupokhrel"><img src="icon/facebook.png"></a></li>
+                            <li> <a href="https://twitter.com/20nu_pokharel"><img src="icon/Twitter.png"></a></li>
+                            <li> <a href="https://www.linkedin.com/in/20nupokhrel"><img src="icon/linkedin.png"></a></li>
+                            <li> <a href="mailto:bishnup212@gmail.com"><img src="icon/google+.png"></a></li>
+                        </ul>
+                    </div>
 
 <br />
 <br />
