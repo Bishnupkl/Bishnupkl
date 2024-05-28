@@ -4,10 +4,10 @@
 
 <!-- Here are some ideas to get you started: -->
 Good Day there 👋. <br />
-I offer more than 4 years of experience with Web development and a proven track record of meeting aggressive goals. <br />
+I offer more than 5 years of experience with Web development and a proven track record of meeting aggressive goals. <br />
 
 - 🔭 I’m currently working on many Realtime Projects
-- 🌱 I’m currently learning React and Node
+- 🌱 I’m currently learning Java and React Js
 - 👯 I’m looking to collaborate on other content creators
 - 🤔 I’m looking for help with Freelancing
 - 💬 Ask me about  Tech career in Nepal, Laravel,Wordpress and PHP things
