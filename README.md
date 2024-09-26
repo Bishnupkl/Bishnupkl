@@ -38,10 +38,10 @@ I am comfortable communicating with technical and non-technical employees in ord
 
 <hr>
 
-![Github Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hiagodiaaas&layout=compact&count_private=true)
+![Github Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Bishnupkl&layout=compact&count_private=true)
 
-![Github Statistics](https://github-readme-stats.vercel.app/api/?username=hiagodiaaas&count_private=true&show_icons=true)
+![Github Statistics](https://github-readme-stats.vercel.app/api/?username=Bishnupkl&count_private=true&show_icons=true)
 
-![Github Contributions](https://github-readme-streak-stats.herokuapp.com/?user=hiagodiaaas&hide_border=true)
+![Github Contributions](https://github-readme-streak-stats.herokuapp.com/?user=Bishnupkl&hide_border=true)
 
 
