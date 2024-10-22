@@ -46,9 +46,6 @@ I am comfortable communicating with technical and non-technical employees in ord
 
 ![GitHub Contributions Calendar](https://github-readme-activity-graph.cyclic.app/graph?username=Bishnupkl&theme=github)
 
-![GitHub Watchers](https://img.shields.io/github/watchers/Bishnupkl?style=social)
-
-![GitHub Pull Requests](https://img.shields.io/github/issues-pr/Bishnupkl)
 
 
 
