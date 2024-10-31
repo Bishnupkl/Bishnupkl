@@ -44,7 +44,6 @@ I am comfortable communicating with technical and non-technical employees in ord
 
 ![Github Contributions](https://github-readme-streak-stats.herokuapp.com/?user=Bishnupkl&hide_border=true)
 
-![GitHub Contributions Calendar](https://github-readme-activity-graph.cyclic.app/graph?username=Bishnupkl&theme=github)
 
 
 
