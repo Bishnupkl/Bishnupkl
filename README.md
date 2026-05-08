@@ -26,11 +26,14 @@ I am comfortable communicating with technical and non-technical employees in ord
 
 ## 📊 GitHub Stats
 
-### Languages
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Bishnupkl&layout=compact&theme=tokyonight)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Bishnupkl&show_icons=true&theme=radical&cache_seconds=1800" />
+</p>
 
-### GitHub Statistics
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Bishnupkl&show_icons=true&theme=tokyonight)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bishnupkl&layout=compact&theme=radical&langs_count=8" />
+</p>
 
-### GitHub Streak
-![GitHub Streak](https://streak-stats.demolab.com?user=Bishnupkl&theme=tokyonight)
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Bishnupkl&theme=radical" />
+</p>
