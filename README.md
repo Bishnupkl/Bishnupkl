@@ -1,6 +1,6 @@
 # Good Day there 👋
 
-I offer more than 6 years of experience with Web development and a proven track record of meeting aggressive goals.
+I offer more than 7 years of experience with Web development and a proven track record of meeting aggressive goals.
 
 - 🔭 I’m currently working on many Realtime Projects
 - 🌱 I’m currently learning Java and React Js
@@ -11,6 +11,7 @@ I offer more than 6 years of experience with Web development and a proven track 
 ## My most notable skills include:
 
 ✔️ PHP  
+✔️ Java
 ✔️ Laravel Framework  
 ✔️ MySQL  
 ✔️ Bootstrap  
