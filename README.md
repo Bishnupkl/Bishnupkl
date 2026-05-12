@@ -11,8 +11,7 @@ I offer more than 7 years of experience with Web development and a proven track 
 ## My most notable skills include:
 
 ✔️ PHP  
-✔️ Java 
-
+✔️ Java  
 ✔️ Laravel Framework  
 ✔️ MySQL  
 ✔️ Bootstrap  
